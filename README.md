@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Faraz Baig</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🌱 I’m currently learning **OCI Generation AI**
+- 🌱 **OCI Generation AI Certified**
 
 - 📫 How to reach me **baigfaraz01@gmail.com**
 
